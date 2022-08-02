@@ -1,2 +1,2 @@
 Git is a version control system.   
-看我  方法
+看我  方法方法
